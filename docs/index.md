@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Rust 学习笔记"
-  text: "Rust 学习笔记"
+  text: "Learn Rust"
   tagline: 学如逆水行舟，不进则退
   actions:
     - theme: brand
